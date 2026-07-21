@@ -1,2 +1,2 @@
 # MessageX
-A great messaging app
+A great messaging app for dummies.
